@@ -2,6 +2,6 @@
 
 ![my_room_by_bjgraphicz1995_da54z2f-fullview](https://github.com/INCONSOLATA00/INCONSOLATA00/assets/93826950/0582e0c7-895b-410c-aafe-4ab837d52105)
 
-<strong>Landing Page previews</strong>
+<strong>Landing Page previews:</strong>
 
 https://inconsolata00.github.io/generic-landing/
