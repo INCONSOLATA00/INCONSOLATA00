@@ -1,7 +1,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-![my_room_by_bjgraphicz1995_da54z2f-fullview](![image](https://github.com/INCONSOLATA00/INCONSOLATA00/assets/93826950/bc283b43-e513-47b4-810b-d1ebba98f99f)
-)
+![image](https://github.com/INCONSOLATA00/INCONSOLATA00/assets/93826950/9fda6315-08c3-444f-9220-520d14f6e063)
+
 
 <strong>Landing Page previews:</strong>
 
