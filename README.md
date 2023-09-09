@@ -4,7 +4,7 @@
 
 <strong>Conventions:</strong>
 
-http://conventions.info/
+https://inconsolata00.github.io/conventions/
 
 <strong>Landing Page previews:</strong>
 
