@@ -5,4 +5,4 @@
 
 <strong>Landing Page previews:</strong>
 
-https://inconsolata00.github.io/generic-landing/
+first major project - https://inconsolata00.github.io/generic-landing/ 
