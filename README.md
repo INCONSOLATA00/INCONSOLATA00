@@ -6,4 +6,5 @@
 <strong>Landing Page previews:</strong>
 
 first project - https://inconsolata00.github.io/generic-landing/ 
-<br>second project - https://inconsolata00.github.io/rock-paper-scissors/
+
+second project - https://inconsolata00.github.io/rock-paper-scissors/
