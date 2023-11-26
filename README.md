@@ -9,6 +9,6 @@
 
 <strong>ｐａｇｅ ｐｒｅｖｉｅｗｓ</strong>
 
-ｆｉｒｓｔ ｐｒｏｊｅｃｔ - https://inconsolata00.github.io/generic-landing/ 
+first project - https://inconsolata00.github.io/generic-landing/ 
 
-ｓｅｃｏｎｄ ｐｒｏｊｅｃｔ - https://inconsolata00.github.io/rock-paper-scissors/
+second project - https://inconsolata00.github.io/rock-paper-scissors/
