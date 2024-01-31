@@ -15,5 +15,5 @@ second project - https://inconsolata00.github.io/rock-paper-scissors/
 
 third project - https://inconsolata00.github.io/etch-a-sketch/
 
-fourth project - 82%
+fourth project - 86%
 </div>
